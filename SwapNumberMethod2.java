@@ -1,4 +1,4 @@
-/* METHOD 1: Swapping of two numbers without using a temporary variable */
+/* METHOD 2: Swapping of two numbers without using a temporary variable */
 
 import java.util.Scanner;
 class SwapNumberMethod2{
