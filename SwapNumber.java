@@ -10,7 +10,7 @@ class SwapNumber{
            Scanner sc0 = new Scanner(System.in);
            int num2 = sc0.nextInt();
            System.out.println("First number: "+num1);
-           System.out.println("Second number: \n"+num2);
+           System.out.println("Second number: "+num2);
            int temp = num1;
            num1 = num2;
            num2 = temp;
