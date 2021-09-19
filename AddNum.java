@@ -1,3 +1,5 @@
+/* Add two integers */
+
 import java.util.Scanner;
 class AddNum{
    public static void main(String Args[]){
