@@ -1,3 +1,5 @@
+/* Check Palindrome Number */
+
 import java.util.Scanner;
 class palindrome{
 	public static void main(String args[]){
