@@ -26,7 +26,7 @@ class SparseMatrix{
 								}
 						}
 					}
-				    if(count>(3*3)/2)
+				    if(count>(3*3)/2)                                    // (rows*column)/2
 						System.out.println("Its a sparse Matrix");
 				             else
 						System.out.println("Its not a sparse Matrix");
