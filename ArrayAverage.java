@@ -1,4 +1,4 @@
-// Calculate Average Using Arrays
+// Calculate Average Using Array
 
 import java.util.Scanner;
 class ArrayAverage{
